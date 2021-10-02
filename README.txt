@@ -13,3 +13,5 @@ Topics that are troublesome
 3. using the %. What does this do. Does anyone know? Maybe not.
 4. Defining things. I still don't quite understand the concept
 5. Typing. I feel I am limited by this mortal shell and cannot wait to project my thoughts directly into the computer.
+
+https://github.com/altoaviactus/CS162-2-BENJAMIN-MCCARLEY
